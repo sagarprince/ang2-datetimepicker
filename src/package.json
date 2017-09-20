@@ -1,0 +1,28 @@
+{
+  "name": "ang2-datetimepicker",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagarprince/ang2-datetimepicker.git"
+  },
+  "author": {
+    "name": "Sagar Pansare",
+    "email": "sagarprince2012@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagarprince/ang2-datetimepicker.git/issues"
+  },
+  "main": "ang2-datetimepicker.umd.js",
+  "module": "ang2-datetimepicker.js",
+  "jsnext:main": "ang2-datetimepicker.js",
+  "typings": "ang2-datetimepicker.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
